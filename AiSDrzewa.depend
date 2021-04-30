@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1619737157 source:c:\users\gorsk\videos\aisd\aisdrzewa\main.cpp
+	<iostream>
+	<vector>
+	<time.h>
+	<chrono>
+	<stdlib.h>
+	<fstream>
+	<algorithm>
+	<math.h>
+	<windows.h>
+	<string.h>
+	<queue>
+
